@@ -21,3 +21,4 @@ Please include in your code
 copyright = "Abhishek Shinde" contact = "arabhishek1091@gmail.com"
 
 Buy me a Bitcoin or Dogecoin 🧘‍♂️
+
