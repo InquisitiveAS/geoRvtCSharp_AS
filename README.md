@@ -2,7 +2,7 @@
 ![image](https://drive.google.com/uc?export=view&id=1Fa_b12SSkaSVUcCGfKnFxs8XyEidYlTz)
 
 
-##COMPUTATIONAL DESIGN  AND SOFTWARE DEVELOPMENT PROJECTS IN C Sharp FOR AUTODESK REVIT
+COMPUTATIONAL DESIGN  & SOFTWARE DEVELOPMENT PROJECTS IN C Sharp FOR AUTODESK REVIT
 ===============================================================================================
 
 BACKGROUND
